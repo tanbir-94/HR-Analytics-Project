@@ -1,4 +1,4 @@
-HR Analytics Dashboard — End-to-End Data Analysis Project
+HR Analytics Project — End-to-End Data Analysis Project
 
 📊 Project Overview
 
@@ -204,3 +204,4 @@ It demonstrates practical use of Excel, SQL, Python, and Power BI in understandi
 📧 Email: mdtanbirraza7@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/md-tanbir-rja-067561236
 📊 GitHub:   https://github.com/tanbir-94
+
